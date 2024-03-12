@@ -1,0 +1,41 @@
+h1{
+    font-family:'Arial Narrow';
+    letter-spacing: 2px;
+}
+
+body{
+    background-color: rgb(145, 104, 211);
+}
+
+button{
+    font-size: 50px; 
+    
+    background-color: rgb(181, 60, 60);
+    color: rgb(254, 254, 254);;
+    margin-bottom: 10px;
+    
+    
+}
+
+
+#pause{
+    display: none;
+}
+
+.buttonscontain{
+    /* background-color: blue; */
+    width: 500px;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    
+    top: 60vh;
+    
+
+
+}
+/* 
+audio{
+    display: none;
+} */
