@@ -2,11 +2,11 @@
 Collection of Mini WebDev Projects Coded by Me (HTML/CSS/JavaScript/Bootstrap)
 
 
-Api Anime Random Quotes -> 
+Api Anime Random Quotes -> princedhamecha.github.io/Mini-WebDev-Projects/Anime%20Api%20Project/
 
-Color Flipper ->
+Color Flipper -> princedhamecha.github.io/Mini-WebDev-Projects/Color%20Flipper
 
-Music Player Prototype ->
+Music Player Prototype -> princedhamecha.github.io/Mini-WebDev-Projects/Project-Music-Player_Prototype
 
-Palindrome Checker ->
+Palindrome Checker -> princedhamecha.github.io/Mini-WebDev-Projects/Palindrome%20Checker
 
