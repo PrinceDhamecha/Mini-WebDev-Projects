@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+div{
+    height: 300px;
+    width: 600px;
+    background-color: red;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    flex-direction: column;
+    font-size: larger;
+    position: relative;
+    left: 450px;
+    top: 50px;
+    border: black solid 5px;
+}
+
+
+#result{
+    font-size: 300px;
+}
+
+body{
+    background-color:black;
+}
+
+#input{
+    padding: 25px;
+    font-size: larger;
+    text-align: center;
+}
+
+button{
+    border-radius: 10px;
+    font-size: 30px;
+    
+}
