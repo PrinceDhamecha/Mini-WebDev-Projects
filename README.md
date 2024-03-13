@@ -11,3 +11,5 @@ LIVE PREVIEW OF THE MINI PROJECTS
 
 [Palindrome Checker](https://princedhamecha.github.io/Mini-WebDev-Projects/Palindrome%20Checker/)
 
+[To-Do List](https://princedhamecha.github.io/Mini-WebDev-Projects/ToDO/)
+
