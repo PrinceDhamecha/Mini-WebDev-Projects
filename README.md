@@ -13,3 +13,5 @@ LIVE PREVIEW OF THE MINI PROJECTS
 
 [To-Do List](https://princedhamecha.github.io/Mini-WebDev-Projects/ToDO/)
 
+[KeyPress-detect](https://princedhamecha.github.io/Mini-WebDev-Projects/KeyPress-Detect-JS)
+
