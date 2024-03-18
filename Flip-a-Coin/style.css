@@ -1,0 +1,57 @@
+*{
+    background-color :#11001c;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: wheat;
+    font-family: "Gabriela", serif;
+}
+
+#CoinDiv{
+    background-color: #290025;
+    height: 450px;
+    width: 450px;
+    margin-bottom: 8px;
+    text-align: center;
+    border-radius: 30px;
+    border: rgba(5, 110, 101, 0.511) 1px solid;
+}
+
+#CoinDiv h1{
+    font-size: 80px;
+    color: #ffff;
+    background-color: #290025;
+    padding-top: 35%;
+    border-radius: 30px;
+}
+
+#ButtonDiv{
+    /* background-color: #642a8b; */
+    height: 70px;
+    width: 450px;
+}
+
+#ButtonDiv Button{
+    color: wheat;
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+    border-color: yellow;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+#ButtonDiv Button:disabled{
+    border: 2px solid;
+    border-color: black;
+}
+
+#Container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
