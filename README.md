@@ -15,3 +15,4 @@ LIVE PREVIEW OF THE MINI PROJECTS
 
 [KeyPress-detect](https://princedhamecha.github.io/Mini-WebDev-Projects/KeyPress-Detect-JS)
 
+[Flip-a-Coin](https://princedhamecha.github.io/Mini-WebDev-Projects/Flip-a-Coin)
