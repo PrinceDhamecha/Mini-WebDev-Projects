@@ -17,4 +17,4 @@ LIVE PREVIEW OF THE MINI PROJECTS
 
 [Flip-a-Coin](https://princedhamecha.github.io/Mini-WebDev-Projects/Flip-a-Coin)
 
-[Password-Strength-Checker](https://princedhamecha.github.io/Mini-WebDev-Projects/)
+[Password-Strength-Checker](https://princedhamecha.github.io/Mini-WebDev-Projects/Password-Strength-Checker)
