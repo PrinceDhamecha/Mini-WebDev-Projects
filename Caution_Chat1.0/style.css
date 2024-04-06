@@ -1,0 +1,132 @@
+*{
+    /* background-color: rgb(178, 149, 149); */
+    padding: 0;
+    margin: 0;
+   
+    
+}
+
+
+.container{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(164, 18, 18, 0.189),rgba(0, 0, 0, 0.4)),url(./assets/bgimg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.headings{
+    background-color: transparent;
+    font-size: 50px;
+    position: absolute;
+    top: 15px;
+    color: rgb(251, 246, 246);
+
+}
+
+#textarea{
+    /* background-color: red; */
+    overflow: auto;
+    height: 100%;
+    width: 80%;
+}
+
+#textarea::-webkit-scrollbar{
+    display: none;
+}
+
+#chatbox{
+    font-family: "Space Grotesk", serif;
+    font-weight: 500;
+    /* background-color: rgb(14, 2, 2); */
+    /* background-image: url(./jeremy-bishop-G9i_plbfDgk-unsplash.jpg); */
+    background-image: linear-gradient(rgba(60, 17, 17, 0.201),rgb(30, 4, 28)),url(./assets/chatbg.jpg);
+    background-position: center;
+    height: 50vh;
+    width: 60vw;
+    border-radius: 30px;
+    /* position: relative; */
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+    justify-content: center;
+    overflow: auto;
+    text-align: center;
+
+    
+}
+
+li{
+    font-size: 3vw;
+    list-style: none;
+    margin-bottom: 7px;
+    margin-bottom: 5px;
+}
+
+
+#input{
+    /* background-color: transparent; */
+    color: black;
+    font-size: 60px;
+    width: 40vw;
+    height: 60px;
+    border-radius: 10px;
+    background-color: grey;
+
+}
+
+#btn{
+    margin-left: 5px;
+    height: 60px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: grey;
+
+}
+
+#inputbox{
+    /* display: none; */
+    display: inline-flex;
+    margin-top: 50px;
+    align-items: center;
+    
+}
+
+#red{
+    color: red;
+}
+
+#green{
+    color: green;
+}
+
+#disclamer{
+    position: fixed;
+    bottom: 3px;
+    background-color: aliceblue;
+    font-size: smaller;
+    margin-left: 20%;
+
+}
+
+@media (max-width:850px) {
+    .headings{
+        top: 5px;
+        font-size: 2vh;
+    }
+    #chatbox{
+        width: 95%;
+    }
+    li{
+        font-size: 30px;
+    }
+    #input{
+        width: 80%;
+    }
+}
