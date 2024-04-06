@@ -19,4 +19,4 @@ LIVE PREVIEW OF THE MINI PROJECTS
 
 [Password-Strength-Checker](https://princedhamecha.github.io/Mini-WebDev-Projects/Password-Strength-Checker)
 
-[Caution-Chat-1.0](https://princedhamecha.github.io/Mini-WebDev-Projects/)
+[Caution-Chat-1.0](https://princedhamecha.github.io/Mini-WebDev-Projects/Caution_Chat1.0)
