@@ -3,7 +3,7 @@ Collection of Mini WebDev Projects Coded by Me (HTML/CSS/JavaScript/Bootstrap)
 
 LIVE PREVIEW OF THE MINI PROJECTS
 
-[Api Anime Random Quotes](https://princedhamecha.github.io/Mini-WebDev-Projects/Anime%20Api%20Project/)
+[Random Quotes Api Fetch](https://princedhamecha.github.io/Mini-WebDev-Projects/Quote%20Api%20Project/)
 
 [Color Flipper](https://princedhamecha.github.io/Mini-WebDev-Projects/Color%20Flipper/)
 
